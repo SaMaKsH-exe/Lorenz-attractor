@@ -25,6 +25,7 @@ media/
 
 # Project specific
 python-practice.md
+manim -pqh your_script.py LorenzAttractor -o lorenz_attractor_mobile_hd.mp4 --resolution=720x1280
 
 # OS specific files
 .DS_Store
